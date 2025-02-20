@@ -1,6 +1,6 @@
 # nosql-challenge
 # Overview
-#This project works to analyze food hygiene ratings across the United Kingdom using MongoDB. The data is derived from the UK Food Standards Agency. The goal is to assist the editors of the "Eat Safe, Love" magazine to identify trends in food establishments and highlight concerns within the industry. 
+This project works to analyze food hygiene ratings across the United Kingdom using MongoDB. The data is derived from the UK Food Standards Agency. The goal is to assist the editors of the "Eat Safe, Love" magazine to identify trends in food establishments and highlight concerns within the industry. 
 # Project Objectives
 1. Setup the Database
    - establishments.json was imported to MongoDB
